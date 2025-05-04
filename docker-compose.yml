@@ -1,0 +1,15 @@
+services:
+  black:
+    container_name: blackarch
+#    image: blackarchlinux/blackarch
+    build:
+      context: .
+      dockerfile: Dockerfile
+    privileged: true
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+#    security_opt:
+#      - seccomp:unconfined
+    volumes:
+      - /opt/mydata:/opt/mydata
