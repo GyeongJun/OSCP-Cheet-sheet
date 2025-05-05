@@ -2,7 +2,7 @@ FROM blackarchlinux/blackarch
 
 # Base Image
 RUN pacman -Syu --noconfirm && \
-    pacman -S base-devel git openvpn python3 python-pip uv vim --noconfirm --disable-sandbox && \
+    pacman -S base-devel git openvpn openssh python3 python-pip uv vim --noconfirm --disable-sandbox && \
     pacman -Scc --noconfirm
 
 
