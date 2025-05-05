@@ -1,0 +1,8 @@
+WEB-INF
+WEB-INF/web.xml
+WEB-INF/jeus-web-dd.xml
+META-INF
+META-INF/MANIFEST.MF
+META-INF/jeus-ejb-dd.xml
+jeus-webadmin
+jeusadmin

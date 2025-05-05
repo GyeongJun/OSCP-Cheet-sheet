@@ -1,0 +1,16 @@
+pyproject.toml
+requirements.txt
+admin
+debug
+__debug__
+__debug__/toolbar
+config/settings.py
+settings.py
+manage.py
+wsgi.py
+asgi.py
+app.py
+main.py
+config.py
+__pycache__
+db.sqlite3

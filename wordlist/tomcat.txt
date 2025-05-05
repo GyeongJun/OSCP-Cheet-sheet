@@ -1,0 +1,9 @@
+WEB-INF
+WEB-INF/web.xml
+META-INF
+META-INF/MANIFEST.MF
+manager
+host-manager
+examples
+docs
+ROOT

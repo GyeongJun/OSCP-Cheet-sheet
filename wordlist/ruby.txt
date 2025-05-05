@@ -1,0 +1,3 @@
+sidekiq
+rails/info/routes
+rails/info/properties
