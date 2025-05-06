@@ -19,6 +19,7 @@
 #### Weblogic
 
 - WEB-INF
+- .//WEB-INF/* : CVE-2022-21371
 - META-INF
 - console/* : 콘솔 페이지
 - wls-wsat/* : CVE-2017-3506, CVE-2017-10271 (RCE)

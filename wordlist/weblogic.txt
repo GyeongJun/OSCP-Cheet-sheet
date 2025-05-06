@@ -1,6 +1,10 @@
 WEB-INF
 WEB-INF/web.xml
 WEB-INF/weblogic.xml
+WEB-INF/portlet.xml
+.//WEB-INF/web.xml
+.//WEB-INF/weblogic.xml
+.//WEB-INF/portlet.xml
 META-INF
 META-INF/application.xml
 META-INF/weblogic-application.xml
